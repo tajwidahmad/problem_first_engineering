@@ -25,7 +25,7 @@ export const personal = {
 export const education = {
   school: 'C. V. Raman Global University',
   degree: 'B.Tech in Computer Science and Engineering',
-  cgpa: '8.83',
+  cgpa: '8.91',
   years: '2024 - 2028',
 }
 
